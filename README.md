@@ -1,6 +1,6 @@
 # Pressure-Sensor-Calibration-using-Neural-Networks
 Official Code for AAAI 2022 Paper : Reducing Energy Consumption of Pressure Sensor Calibration Using Polynomial HyperNetworks with Fourier Features
-
+https://ojs.aaai.org/index.php/AAAI/article/view/21474
 To install package in a conda environemnt
 
 conda install --file requirements.txt
